@@ -1,6 +1,6 @@
 # rocktwitchtv-osu-tournament
 Welcome to rocktwitchtv osu! tournament! 
-
+[image](https://i.imgur.com/0i6e4Y8.png)
 Introduction:
 - This is a fast, private osu! standard 1v1 tourney and will only be hosted for No Title discord server, sorry.
 - The requirement of ranks for this tournament is #50k-#150k. The buffers are 2k, that means if you are in around #52k-#152k, you are still allowed to join the tournament. The rank will be locked down at the time the registration closes, after that, you can set your rank whatever you want.
