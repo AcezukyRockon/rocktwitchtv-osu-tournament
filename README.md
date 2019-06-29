@@ -4,7 +4,7 @@ Welcome to rocktwitchtv osu! tournament!
 ![banner2](https://user-images.githubusercontent.com/36922874/60381441-38718a80-9a7f-11e9-96df-9d766fac5beb.png)
 Introduction:
 - This is a private osu! standard 1v1 tourney and will only be hosted for No Title discord server.
-- If you are not in No Title but you got this link, you can play the tournament if you join No Title discord server (of course before the time registration closes) (DM rock-on#9446 or post in Issues if you want to ask me about joining the server).
+- If you are not in No Title but you got this link, you can play the tournament if you join No Title discord server (of course before the time registration closes). DM rock-on#9446 or post in Issues if you want to ask about joining the server.
 - The requirement of ranks for this tournament is #50k-#150k. The buffers are 2k, that means if you are in around #52k-#152k, you are still allowed to join the tournament. The rank will be locked down at the time the registration closes, after that, you can set your rank whatever you want.
 - If you change ingame name or discord name/tag, please let me know as soon as possible.
 - All the matches will be streamed, referee-ed and commentated, that means at the same time, there will be no 2 and more matches.
