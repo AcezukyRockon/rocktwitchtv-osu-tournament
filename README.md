@@ -15,7 +15,7 @@ Schedule:
 - Registration will be opened in 1st july 13:00 UTC and will be closed in 6th july 13:00 UTC.
 - Mappool will be released at the time the registration is closed.
 - Reschedule should be announced as soon as possible (before a real scheduled match 1 day). PM rock-on#9446 in discord or post request in Github or in No Title server if you want to reschedule.
-- In default, matches will be scheduled on 6th July and 7th July.
+- In default, matches will be scheduled on 12th - 15th July.
 
 ![banner4](https://user-images.githubusercontent.com/36922874/60381530-6e633e80-9a80-11e9-844c-56d56945e96b.png)
 Mappool:
