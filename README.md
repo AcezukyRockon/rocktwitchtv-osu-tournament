@@ -23,6 +23,7 @@ Mappool:
 - There will be more mappool depend on how much players registered.
 - (I'll post detail mappool at here on the day mappool is released)
 
+![banner5](https://user-images.githubusercontent.com/36922874/60381573-22fd6000-9a81-11e9-9fe1-0ca9147646bd.png)
 Match Rules:
 - Respect to the referee and the players, if we found that you behave offensively, you can have a chance to be disqualified.
 - All matches will be 1v1, HeadToHead, ScoreV2.
@@ -37,9 +38,11 @@ Match Rules:
 - If the match ends in a tie, the tiebreaker will be played.
 - During a song, if you failed until the end, your score will not be counted. If both players are failed at the end, player who has higher   score will be counted.
 
+![banner6](https://user-images.githubusercontent.com/36922874/60381611-a3bc5c00-9a81-11e9-881a-aebd9a5e3ac5.png)
 Reward:
 - 1st will get a music track made by rock-on (as rock-on put a lot of effort to make it)
 
+![banner7](https://user-images.githubusercontent.com/36922874/60381616-ae76f100-9a81-11e9-8b2f-378317ee456c.png)
 Staff:
 - Host: rock-on
 - Admins (who help answer things to players): rock-on
