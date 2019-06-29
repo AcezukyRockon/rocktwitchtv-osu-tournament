@@ -20,7 +20,7 @@ Mappool:
 - (I'll post detail mappool at here on the day mappool is released)
 
 Match Rules:
-- Respect to the referee and the players, if I found that you behave offensively, you can have a chance to be disqualified.
+- Respect to the referee and the players, if we found that you behave offensively, you can have a chance to be disqualified.
 - All matches will be 1v1, HeadToHead, ScoreV2.
 - Only Final has BO9 format. Everything else are BO7.
 - There will be a referee invite you before each matches 15 minutes. Besure to be active in osu! at that time.
@@ -32,6 +32,9 @@ Match Rules:
 - For FM maps, players are forced to pick at least one mod. The range of mods are HR, HD, EZ, FL and SO. You can stack these mods for    higher score if you want. This rule applies for Tiebreaker as well, but for Tiebreaker, you are not forced to pick any mods at all.
 - If the match ends in a tie, the tiebreaker will be played.
 - During a song, if you failed until the end, your score will not be counted. If both players are failed at the end, player who has higher   score will be counted.
+
+Reward:
+- 1st will get a music track made by rock-on (as rock-on put a lot of effort to make it)
 
 Staff:
 - Host: rock-on
