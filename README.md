@@ -42,3 +42,4 @@ Staff:
 - Comentary: rock-on
 - Statistician: rock-on
 - Programmer: rock-on
+- Graphic Design: rock-on
