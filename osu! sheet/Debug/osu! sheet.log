@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Trang\source\repos\Project about osu!\osu! sheet\Source.cpp(12,12): warning C4101:  'keyfirst': unreferenced local variable
+C:\Users\Trang\source\repos\Project about osu!\osu! sheet\Source.cpp(11,37): warning C4101:  'ASCIIValue_first': unreferenced local variable
+  osu! sheet.vcxproj -> C:\Users\Trang\source\repos\Project about osu!\Debug\osu! sheet.exe
