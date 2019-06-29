@@ -1,5 +1,6 @@
 # rocktwitchtv-osu-tournament
 Welcome to rocktwitchtv osu! tournament! 
+
 ![banner2](https://user-images.githubusercontent.com/36922874/60381441-38718a80-9a7f-11e9-96df-9d766fac5beb.png)
 Introduction:
 - This is a fast, private osu! standard 1v1 tourney and will only be hosted for No Title discord server, sorry.
@@ -8,6 +9,7 @@ Introduction:
 - The updates and annoucement will often be posted in Github and in No Title server. (this post will be modified). DM rock-on#9446 or post in here or the server if you have any questions.
 - As you can see, this tournament is posted in Github but not any blog or elsewhere,... That's right, I made and a C++ application for this tournament. The program is not something special, it has ability to show users about rules, mappool, important links,... ect, I use all of my current university knowledge to do it, if you don't want to use it, it's ok.
 
+![banner3](https://user-images.githubusercontent.com/36922874/60381526-5f7c8c00-9a80-11e9-8bc0-2e815265e673.png)
 Schedule:
 - Because this is fast tournament, everything will be faster than normal normal tournament: the mappool will be released earlier, the match schedule will be released earlier,...
 - Registration will be opened in 1st july 13:00 UTC and will be closed in 6th july 13:00 UTC.
@@ -15,6 +17,7 @@ Schedule:
 - Reschedule should be announced as soon as possible (before a real scheduled match 1 day). PM rock-on#9446 in discord or post request in Github or in No Title server if you want to reschedule.
 - In default, matches will be scheduled on 6th July and 7th July.
 
+![banner4](https://user-images.githubusercontent.com/36922874/60381530-6e633e80-9a80-11e9-844c-56d56945e96b.png)
 Mappool:
 - Mappool will consist 5 NM, 2 HD, 2 HR, 2 DT, 3 FM and 1 TB and will be around 3.5*-4.5*
 - There will be more mappool depend on how much players registered.
