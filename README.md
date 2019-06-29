@@ -40,7 +40,7 @@ Match Rules:
 
 ![banner6](https://user-images.githubusercontent.com/36922874/60381611-a3bc5c00-9a81-11e9-881a-aebd9a5e3ac5.png)
 Reward:
-- 1st will get a music track made by rock-on (as rock-on put a lot of effort to make it)
+- 1st will get a re-arranged music track made by rock-on (as rock-on put a lot of effort to make it)
 
 ![banner7](https://user-images.githubusercontent.com/36922874/60381616-ae76f100-9a81-11e9-8b2f-378317ee456c.png)
 Staff:
