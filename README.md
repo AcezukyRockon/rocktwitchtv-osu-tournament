@@ -4,12 +4,12 @@ Welcome to rocktwitchtv osu! tournament!
 ![banner2](https://user-images.githubusercontent.com/36922874/60381441-38718a80-9a7f-11e9-96df-9d766fac5beb.png)
 Introduction:
 - This is a private osu! standard 1v1 tourney and will only be hosted for No Title discord server.
+- If you are not in No Title but you got this link, you can play the tournament if you join No Title discord server (of course before the time registration closes)
 - The requirement of ranks for this tournament is #50k-#150k. The buffers are 2k, that means if you are in around #52k-#152k, you are still allowed to join the tournament. The rank will be locked down at the time the registration closes, after that, you can set your rank whatever you want.
 - If you change ingame name or discord name/tag, please let me know as soon as possible.
 - All the matches will be streamed, referee-ed and commentated, that means at the same time, there will be no 2 and more matches.
 - The updates and annoucement will often be posted at Update.md in Github and in No Title server. (this post will be modified). DM rock-on#9446 or post in here or the server if you have any questions.
 - As you can see, this tournament is posted in Github but not any blog or elsewhere,... That's right, I made and a C++ application for this tournament. The program is not something special, it has ability to show users about rules, mappool, important links,... ect, I use all of my current university knowledge to do it, if you don't want to use it, it's ok, most of things are at here.
-- If you are not in No Title but you got this link, you can play the tournament if you join No Title discord server (of course before the time registration closes)
 
 ![banner3](https://user-images.githubusercontent.com/36922874/60381526-5f7c8c00-9a80-11e9-8bc0-2e815265e673.png)
 Schedule:
