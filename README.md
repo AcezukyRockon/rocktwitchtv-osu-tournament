@@ -16,6 +16,7 @@ Schedule:
 - Mappool will be released at the time the registration is closed.
 - Reschedule should be announced as soon as possible (before a real scheduled match 1 day). PM rock-on#9446 in discord or post request in Github or in No Title server if you want to reschedule.
 - In default, matches will be scheduled on 12th - 15th July.
+- Detail match schedules will be posted in challonge.
 
 ![banner4](https://user-images.githubusercontent.com/36922874/60381530-6e633e80-9a80-11e9-844c-56d56945e96b.png)
 Mappool:
