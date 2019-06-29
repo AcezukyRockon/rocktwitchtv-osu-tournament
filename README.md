@@ -10,13 +10,14 @@ Introduction:
 
 Schedule:
 - Because this is fast tournament, everything will be faster than normal normal tournament: the mappool will be released earlier, the match schedule will be released earlier,...
-- Registration will be opened in 1st july 13:00 UTC and will be closed in 3rd july 13:00 UTC.
+- Registration will be opened in 1st july 13:00 UTC and will be closed in 6th july 13:00 UTC.
 - Mappool will be released at the time the registration is closed.
 - Reschedule should be announced as soon as possible (before a real scheduled match 1 day). PM rock-on#9446 in discord or post request in Github or in No Title server if you want to reschedule.
 - In default, matches will be scheduled on 6th July and 7th July.
 
 Mappool:
-- Mappool will consist 5 NM, 2 HD, 2 HR, 2 DT, 3 FM and 1 TB
+- Mappool will consist 5 NM, 2 HD, 2 HR, 2 DT, 3 FM and 1 TB and will be around 3.5*-4.5*
+- There will be more mappool depend on how much players registered.
 - (I'll post detail mappool at here on the day mappool is released)
 
 Match Rules:
