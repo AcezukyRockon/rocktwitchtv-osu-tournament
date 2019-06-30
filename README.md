@@ -14,7 +14,7 @@
 
 ![banner3](https://user-images.githubusercontent.com/36922874/60381526-5f7c8c00-9a80-11e9-8bc0-2e815265e673.png)
 **Schedule:**
-- Registration will be opened in 30th June 13:00 UTC and will be closed in 6th july 13:00 UTC.
+- Registration will be opened in 30th June 13:00 UTC and will be closed in 6th july 13:00 UTC. You can register at [here](https://forms.gle/8ERnss38Ud6jnQY89): 
 - Mappool will be released at the time the registration is closed.
 - Reschedule should be announced as soon as possible and should be before a real scheduled match 24 hours. PM rock-on#9446 in discord or post in [Issues](https://github.com/fireser/rocktwitchtv-osu-tournament/issues) or in No Title server if you wish to reschedule.
 - In default, matches will be scheduled on 12th - 15th July.
