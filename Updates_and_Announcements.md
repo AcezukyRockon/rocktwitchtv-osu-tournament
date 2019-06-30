@@ -1,1 +1,1 @@
-Registration is OPEN!!! Here is the link: https://forms.gle/8ERnss38Ud6jnQY89
+Registration is open until 6th July 13:00 UTC!!! Here is the link: https://forms.gle/8ERnss38Ud6jnQY89
