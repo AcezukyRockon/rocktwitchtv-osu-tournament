@@ -39,7 +39,7 @@
 - Time to pick and bans is 90 seconds. If a player failed to pick, ban after this time, the opponent will be allowed to pick/ban. The time can be reduced or increased depends on the referee.
 - For FM maps, players are forced to pick at least one mod. The range of mods are HR, HD, EZ, FL and SO. You can stack these mods for    higher score if you want. This rule applies for Tiebreaker as well, but for Tiebreaker, you are not forced to pick any mods at all.
 - If the match ends in a tie, the tiebreaker will be played.
-- During a song, if you failed until the end, your score will not be counted. If both players are failed at the end, player who has higher   score will be counted.
+- During a song, if you failed at the end, your score will not be counted. If both players failed at the end, player who has higher   score will still be counted as winnner of the song.
 
 ![banner6](https://user-images.githubusercontent.com/36922874/60381611-a3bc5c00-9a81-11e9-881a-aebd9a5e3ac5.png)
 **Reward:**
