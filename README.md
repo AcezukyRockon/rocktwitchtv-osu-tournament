@@ -6,7 +6,7 @@
 - If you are not in No Title but you got this link, you can play the tournament if you join No Title discord server (of course before the time registration closes). DM rock-on#9446 or post in [Issues](https://github.com/fireser/rocktwitchtv-osu-tournament/issues) if you want to ask about joining the server.
 
 ![lol](https://user-images.githubusercontent.com/36922874/60385000-80f46c80-9aae-11e9-834a-4f795895e582.PNG)
-- The requirement of ranks for this tournament is #50k-#150k. The buffers are 2k, that means if you are in around #52k-#152k, you are still allowed to join the tournament. The rank will be locked down at the time the registration closes, after that, you can set your rank whatever you want.
+- The requirement of ranks for this tournament is #50k-#150k. The buffers are 2k, that means if you are in around #48k-#152k, you are still allowed to join the tournament. The rank will be locked down at the time the registration closes, after that, you can set your rank whatever you want.
 - If you change ingame name or discord name/tag, please let me know as soon as possible.
 - All the matches will be streamed and commentated if at the same time, there are no 2 or more matches. If there are more than two matches at same time, streamer will decide which match to go live.
 - The updates and annoucement will often be posted at [Updates_and_Announcements.md](https://github.com/fireser/rocktwitchtv-osu-tournament/blob/master/Updates_and_Announcements.md) in Github and in No Title server. DM rock-on#9446 or post in [Issues](https://github.com/fireser/rocktwitchtv-osu-tournament/issues) or the server if you have any questions.
