@@ -32,7 +32,7 @@
 - All matches will be 1v1, HeadToHead, ScoreV2.
 - Only Final has BO9 format. Everything else are BO7.
 - There will be a referee invite you before each matches 15 minutes. Besure to be active in osu! at that time.
-- If one of players doesn't show up at the lobby at scheduled time, they have 10 minutes to show up. If one of player doesn't show up, the match will be defaulted to the one in the lobby. If both players fail to show up, both players will be disqualified.
+- If one of players doesn't show up at the lobby at scheduled time, they have 10 minutes to show up. If that player doesn't show up after 10 minutes, the match will be defaulted to the one in the lobby. If both players fail to show up, both players will be disqualified.
 - When both players are in lobby, the referee will tell players to roll. Higher roll will get first warmup pick, second ban and first pick.
 - There are total 2 warmups, 2 bans.
 - If any of players disconnect during the match for first 30 seconds, the match will be replayed, else, the point will go toward to the  other. If a player disconected in the lobby, they have 10 minutes to show ups.
