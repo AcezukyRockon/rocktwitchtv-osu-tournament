@@ -35,6 +35,7 @@
 - If one of players doesn't show up at the lobby at scheduled time, they have 10 minutes to show up. If that player doesn't show up after 10 minutes, the match will be defaulted to the one in the lobby. If both players fail to show up, both players will be disqualified.
 - When both players are in lobby, the referee will tell players to roll. Higher roll will get first warmup pick, second ban and first pick.
 - There are total 2 warmups, 2 bans.
+- Warmups must be lower than 5 minutes.
 - If any of players disconnect during the match for first 30 seconds, the match will be replayed, else, the point will go toward to the  other. If a player disconected in the lobby, they have 10 minutes to show ups.
 - Time to pick and bans is 90 seconds. If a player failed to pick, ban after this time, the opponent will be allowed to pick/ban. The time can be reduced or increased depends on the referee.
 - For FM maps, players are forced to pick at least one mod. The range of mods are HR, HD, EZ, FL and SO. You can stack these mods for    higher score if you want. This rule applies for Tiebreaker as well, but for Tiebreaker, you are not forced to pick any mods at all.
