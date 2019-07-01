@@ -38,7 +38,7 @@
 - Warmups must be lower than 5 minutes.
 - If any of players disconnect during the match for first 30 seconds, the match will be replayed, else, the point will go toward to the  other. If a player disconected in the lobby, they have 10 minutes to show ups.
 - Time to pick and bans is 90 seconds. If a player failed to pick, ban after this time, the opponent will be allowed to pick/ban. The time can be reduced or increased depends on the referee.
-- For FM maps, players are forced to pick at least one mod. The range of mods are HR, HD, EZ, FL and SO. You can stack these mods for    higher score if you want. This rule applies for Tiebreaker as well, but for Tiebreaker, you are not forced to pick any mods at all.
+- For FM maps, players are forced to pick at least one mod. The range of mods are HR, HD, EZ, FL. You can stack these mods for    higher score if you want. This rule applies for Tiebreaker as well, but for Tiebreaker, you are not forced to pick any mods at all.
 - If the match ends in a tie, the tiebreaker will be played.
 - During a song, if you failed at the end, your score will not be counted. If both players failed at the end, player who has higher   score will still be counted as winnner of the song.
 
