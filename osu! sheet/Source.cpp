@@ -1,12 +1,18 @@
 ﻿#include "Base.h"
 #include "Rule.h"
+#include "ListPlayers.h"
+#include "Mappool.h"
 
 int main() {
-	Base	*a = NULL,
-			*b = NULL;
+	Base* a = NULL,
+		* b = NULL,
+		* c = NULL,
+		* d = NULL;
 
 	a = new Base();
 	b = new Rule();
+	c = new ListPlayers();
+	d = new Mappool();
 	
 	int dem = 1, dem2 = 1, ASCIIValue, ASCIIValue_first;
 	char key, keyfirst;
@@ -16,7 +22,7 @@ int main() {
 
 	// Print Welcome Screen
 	a->PrintWelcome();
-	cout << "   (Press Alt + Enter to fullscreen the CMD for full view)";
+	cout << "   (Press Alt + Enter or double click at top bar to fullscreen for full view)";
 	a->gotoxy(1, 3);
 	cout << "Press any key to continue...";
 	Sleep(500);
@@ -92,9 +98,10 @@ int main() {
 				a->PrintLose();
 				a->PrintWelcome();
 				a->PrintMenu2(); //highlight chữ Help
-				
-		//		if (ASCIIValue == 13) help(); // nhảy vô giao diện help
-		 //       if(ASCIIValue == 27) disable == false; //thoát giao diện help
+				if (ASCIIValue == 13) {
+					c->PrintMenu1();
+					c->PrintLose();
+				}
 				continue;
 			}
 			if (dem == 3)
@@ -102,8 +109,10 @@ int main() {
 				a->PrintWelcome();
 				a->PrintMenu3(); //highlight chữ Credit
 				a->PrintLose();
-		//		if (ASCIIValue == 13) credit(); //nhảy vô giao diện credit
-		  //      if(ASCIIValue == 27) disable == false; //thoát giao diện credit
+				if (ASCIIValue == 13) {
+					d->PrintMenu1();
+					d->PrintLose();
+				}
 				continue;
 			}
 			if (dem == 4)

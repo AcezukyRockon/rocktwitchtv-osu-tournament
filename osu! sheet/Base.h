@@ -3,6 +3,8 @@
 #include <cstdlib>
 #include <ctime>
 #include <conio.h>
+#include <fstream>
+#include <string>
 using namespace std;
 #pragma once
 

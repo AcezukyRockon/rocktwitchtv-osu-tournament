@@ -23,9 +23,9 @@ void Base::PrintWelcome()
 
 void Base::DeleteRight()
 {
-	for (int i = 4; i < 25; i++) {
+	for (int i = 4; i < 40; i++) {
 		gotoxy(25, i);
-		for (int i = 25; i <= 126; i++)
+		for (int i = 25; i <= 150; i++)
 			cout << " ";
 	}
 }
@@ -45,7 +45,7 @@ void Base::PrintMenu1()
 	cout << "-> 1. QUICK RULES";
 	gotoxy(1, 6);
 	SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), FOREGROUND_RED | FOREGROUND_BLUE | FOREGROUND_GREEN | FOREGROUND_INTENSITY);
-	cout << "   2. LIST PLAYERS";
+	cout << "   2. PLAYERS & SCHEDULE";
 	gotoxy(1, 8);
 	SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), FOREGROUND_RED | FOREGROUND_BLUE | FOREGROUND_GREEN | FOREGROUND_INTENSITY);
 	cout << "   3. MAPPOOL";
@@ -69,7 +69,7 @@ void Base::PrintMenu2()
 	cout << "   1. QUICK RULES";
 	gotoxy(1, 6);
 	SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_INTENSITY);
-	cout << "-> 2. LIST PLAYERS";
+	cout << "-> 2. PLAYERS & SCHEDULE";
 	gotoxy(1, 8);
 	SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), FOREGROUND_RED | FOREGROUND_BLUE | FOREGROUND_GREEN | FOREGROUND_INTENSITY);
 	cout << "   3. MAPPOOL";
@@ -93,7 +93,7 @@ void Base::PrintMenu3()
 	cout << "   1. QUICK RULES";
 	gotoxy(1, 6);
 	SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), FOREGROUND_RED | FOREGROUND_BLUE | FOREGROUND_GREEN | FOREGROUND_INTENSITY);
-	cout << "   2. LIST PLAYERS";
+	cout << "   2. PLAYERS & SCHEDULE";
 	gotoxy(1, 8);
 	SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_INTENSITY);
 	cout << "-> 3. MAPPOOL";
@@ -118,7 +118,7 @@ void Base::PrintMenu4()
 	cout << "   1. QUICK RULES";
 	gotoxy(1, 6);
 	SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), FOREGROUND_RED | FOREGROUND_BLUE | FOREGROUND_GREEN | FOREGROUND_INTENSITY);
-	cout << "   2. LIST PLAYERS";
+	cout << "   2. PLAYERS & SCHEDULE";
 	gotoxy(1, 8);
 	SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), FOREGROUND_RED | FOREGROUND_BLUE | FOREGROUND_GREEN | FOREGROUND_INTENSITY);
 	cout << "   3. MAPPOOL";
@@ -141,7 +141,7 @@ void Base::PrintMenu5()
 	cout << "   1. QUICK RULES";
 	gotoxy(1, 6);
 	SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), FOREGROUND_RED | FOREGROUND_BLUE | FOREGROUND_GREEN | FOREGROUND_INTENSITY);
-	cout << "   2. LIST PLAYERS";
+	cout << "   2. PLAYERS & SCHEDULE";
 	gotoxy(1, 8);
 	SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), FOREGROUND_RED | FOREGROUND_BLUE | FOREGROUND_GREEN | FOREGROUND_INTENSITY);
 	cout << "   3. MAPPOOL";

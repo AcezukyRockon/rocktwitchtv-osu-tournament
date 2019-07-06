@@ -1,4 +1,4 @@
-﻿  Source.cpp
-C:\Users\Trang\source\repos\Project about osu!\osu! sheet\Source.cpp(12,12): warning C4101:  'keyfirst': unreferenced local variable
-C:\Users\Trang\source\repos\Project about osu!\osu! sheet\Source.cpp(11,37): warning C4101:  'ASCIIValue_first': unreferenced local variable
+﻿  Base.cpp
+C:\Users\Trang\source\repos\Project about osu!\osu! sheet\Base.cpp(5,14): warning C4838:  conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Trang\source\repos\Project about osu!\osu! sheet\Base.cpp(5,17): warning C4838:  conversion from 'int' to 'SHORT' requires a narrowing conversion
   osu! sheet.vcxproj -> C:\Users\Trang\source\repos\Project about osu!\Debug\osu! sheet.exe

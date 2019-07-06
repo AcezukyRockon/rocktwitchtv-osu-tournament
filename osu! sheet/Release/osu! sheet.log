@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\Trang\source\repos\Project about osu!\osu! sheet\Source.cpp(18,12): warning C4101:  'keyfirst': unreferenced local variable
+C:\Users\Trang\source\repos\Project about osu!\osu! sheet\Source.cpp(17,37): warning C4101:  'ASCIIValue_first': unreferenced local variable
+  Generating code
+  1 of 173 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  osu! sheet.vcxproj -> C:\Users\Trang\source\repos\Project about osu!\Release\osu! sheet.exe
