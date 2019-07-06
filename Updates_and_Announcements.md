@@ -1,3 +1,3 @@
-- Registration is open until 6th July 13:00 UTC!!! Here is the link: https://forms.gle/8ERnss38Ud6jnQY89
 - Match schedule updated from 12-15th july to 9-15th july
 - Freemod and tiebreaker updated: no more SO mod
+- Mappool is here!! https://docs.google.com/spreadsheets/d/1IqsZYKsojLxQJijOA-ERuLDBX20CvSLbc_HIaNfZrbk/edit?usp=sharing
