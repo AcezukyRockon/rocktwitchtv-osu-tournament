@@ -1,4 +1,2 @@
-﻿  Base.cpp
-C:\Users\Trang\source\repos\Project about osu!\osu! sheet\Base.cpp(5,14): warning C4838:  conversion from 'int' to 'SHORT' requires a narrowing conversion
-C:\Users\Trang\source\repos\Project about osu!\osu! sheet\Base.cpp(5,17): warning C4838:  conversion from 'int' to 'SHORT' requires a narrowing conversion
+﻿  CodingStuff.cpp
   osu! sheet.vcxproj -> C:\Users\Trang\source\repos\Project about osu!\Debug\osu! sheet.exe

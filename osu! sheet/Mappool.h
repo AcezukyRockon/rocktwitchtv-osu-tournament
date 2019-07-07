@@ -1,11 +1,11 @@
 #pragma once
-#include "Base.h"
+#include "Base.h" //inherit from class Base
 class Mappool :
-	public Base
+	public Base // inherit from class Base
 {
 public:
-	void PrintMenu1();
-	void PrintLose();
-	Mappool();
+	void PrintMenu1(); //Print mappool
+	void PrintLose(); //Print Lost?
+	Mappool(); //default constructor
 };
 

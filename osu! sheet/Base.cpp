@@ -1,12 +1,13 @@
-#include "Base.h"
+#include "Base.h" //include function's header in this file. This .cpp is to define every function at Base.h
+				  //go to Base.h to see function's meaning
 
-void Base::gotoxy(int x, int y)
+void Base::gotoxy(int x, int y) 
 {
 	COORD p = { x, y };
 	SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), p);
 }
 
-void Base::NoCursorType()
+void Base::NoCursorType() 
 {
 	CONSOLE_CURSOR_INFO Info;
 	Info.bVisible = FALSE;
@@ -14,14 +15,14 @@ void Base::NoCursorType()
 	SetConsoleCursorInfo(GetStdHandle(STD_OUTPUT_HANDLE), &Info);
 }
 
-void Base::PrintWelcome()
+void Base::PrintWelcome() 
 {
 	gotoxy(1, 1);
-	SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), FOREGROUND_RED | FOREGROUND_BLUE | FOREGROUND_GREEN | FOREGROUND_INTENSITY);
+	SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), FOREGROUND_RED | FOREGROUND_BLUE | FOREGROUND_GREEN | FOREGROUND_INTENSITY); //color command
 	cout << "WELCOME TO ROCKTWITCHTV TOURNAMENT !!!";
 }
 
-void Base::DeleteRight()
+void Base::DeleteRight() 
 {
 	for (int i = 4; i < 40; i++) {
 		gotoxy(25, i);
@@ -30,18 +31,23 @@ void Base::DeleteRight()
 	}
 }
 
-void Base::DeleteLose()
+void Base::DeleteLose() 
 {
-	Base::gotoxy(1, 17);
+	for (int i = 17; i < 22; i++) {
+		gotoxy(1, i);
+		for (int i = 1; i <= 21; i++)
+			cout << " ";
+	}
+	/*Base::gotoxy(1, 17);
 	for (int i = 1; i <= 21; i++) cout << " ";
 	Base::gotoxy(1, 18);
-	for (int i = 1; i <= 21; i++) cout << " ";
+	for (int i = 1; i <= 21; i++) cout << " ";*/
 }
 
 void Base::PrintMenu1()
 {
 	gotoxy(1, 4);
-	SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_INTENSITY);
+	SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_INTENSITY); //Red + Green = yellow
 	cout << "-> 1. QUICK RULES";
 	gotoxy(1, 6);
 	SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), FOREGROUND_RED | FOREGROUND_BLUE | FOREGROUND_GREEN | FOREGROUND_INTENSITY);

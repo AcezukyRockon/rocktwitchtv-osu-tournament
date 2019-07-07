@@ -124,6 +124,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="Base.h" />
+    <ClInclude Include="CodingStuff.h" />
     <ClInclude Include="ListPlayers.h" />
     <ClInclude Include="Mappool.h" />
     <ClInclude Include="resource.h" />
@@ -134,6 +135,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Base.cpp" />
+    <ClCompile Include="CodingStuff.cpp" />
     <ClCompile Include="ListPlayers.cpp" />
     <ClCompile Include="Mappool.cpp" />
     <ClCompile Include="Rule.cpp" />

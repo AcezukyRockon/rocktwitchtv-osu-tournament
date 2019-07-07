@@ -1,4 +1,5 @@
-#include "Mappool.h"
+#include "Mappool.h"	//include function's header in this file. This .cpp is to define every function at Mappool.h
+					     //go to Mappool.h to see function's meaning
 
 void Mappool::PrintMenu1()
 {
@@ -11,6 +12,7 @@ void Mappool::PrintMenu1()
 	SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), FOREGROUND_RED | FOREGROUND_BLUE | FOREGROUND_GREEN | FOREGROUND_INTENSITY);
 	cout << "   (just copy and paste the link like you do in normal way)";
 	SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), FOREGROUND_RED | FOREGROUND_BLUE | FOREGROUND_GREEN | FOREGROUND_INTENSITY);
+	//Commands to open and read mappool.txt
 	int i = 7;
 	string line_;
 	ifstream file_("mappool.txt");

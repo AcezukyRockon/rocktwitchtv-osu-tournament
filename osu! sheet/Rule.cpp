@@ -1,11 +1,12 @@
-#include "Rule.h"
+#include "Rule.h"	//include function's header in this file. This .cpp is to define every function at Rule.h
+				    //go to Rule.h to see function's meaning
 
 void Rule::PrintMenu1()
 {
 	Base::gotoxy(25, 4);
 	SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), FOREGROUND_RED | FOREGROUND_BLUE | FOREGROUND_GREEN | FOREGROUND_INTENSITY);
 	cout << "   Detail rules:";
-	SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), FOREGROUND_BLUE | FOREGROUND_GREEN | FOREGROUND_INTENSITY);
+	SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), FOREGROUND_BLUE | FOREGROUND_GREEN | FOREGROUND_INTENSITY); //blue + green = light blue
 	cout << "https://github.com/fireser/rocktwitchtv-osu-tournament/blob/master/README.md";
 	Base::gotoxy(25, 5);
 	SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), FOREGROUND_RED | FOREGROUND_BLUE | FOREGROUND_GREEN | FOREGROUND_INTENSITY);

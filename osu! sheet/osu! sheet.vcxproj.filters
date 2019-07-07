@@ -30,6 +30,9 @@
     <ClInclude Include="Mappool.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="CodingStuff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="osu! sheet.rc">
@@ -50,6 +53,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Mappool.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CodingStuff.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
