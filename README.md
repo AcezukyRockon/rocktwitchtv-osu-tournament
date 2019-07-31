@@ -1,4 +1,6 @@
-# Welcome to rocktwitchtv osu! tournament!
+# Welcome to rocktwitchtv osu! tournament! [Closed]
+
+The winner is \_nhan  !!!
 
 ![banner2](https://user-images.githubusercontent.com/36922874/60381441-38718a80-9a7f-11e9-96df-9d766fac5beb.png)
 **Introduction:**
