@@ -52,7 +52,7 @@ The winner is [\_nhan](https://osu.ppy.sh/users/8765611)  !!!
 ![banner7](https://user-images.githubusercontent.com/36922874/60381616-ae76f100-9a81-11e9-8b2f-378317ee456c.png)
 **Staff:**
 - Host: rock-on
-- Admins (who help answer things to players): rock-on
+- Admins (discord management): rock-on
 - Referes: rock-on
 - Mappooler: rock-on
 - Streamer: rock-on
