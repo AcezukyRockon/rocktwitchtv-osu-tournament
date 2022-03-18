@@ -1,12 +1,11 @@
 # Welcome to rocktwitchtv osu! tournament! [Closed]
 
 The winner is [\_nhan](https://osu.ppy.sh/users/8765611)  !!!
+2nd place is [ r o c k k](https://osu.ppy.sh/users/11226865) !
 
-The only MP Link: https://osu.ppy.sh/community/matches/53282870
+Thanks [Taevas](https://osu.ppy.sh/users/7276846) for helping me findding [The only MP Link](https://osu.ppy.sh/community/matches/53282870) after [3 years](https://i.imgur.com/lXNCLMK.png)!
 
-Thanks ![Taevas](https://osu.ppy.sh/users/7276846) for helping me find MP link after ![3 years](https://i.imgur.com/lXNCLMK.png)!
-
-Vod (thanks[\_nhan](https://osu.ppy.sh/users/8765611) for backup the vod!): https://youtu.be/Zgr-3hH_1Ug
+Thanks[\_nhan](https://osu.ppy.sh/users/8765611) for backup the [vod](https://youtu.be/Zgr-3hH_1Ug)!
 
 ![banner2](https://user-images.githubusercontent.com/36922874/60381441-38718a80-9a7f-11e9-96df-9d766fac5beb.png)
 **Introduction:**
