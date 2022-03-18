@@ -3,7 +3,7 @@
 The winner is [\_nhan](https://osu.ppy.sh/users/8765611)  !!!
 2nd place is [ r o c k k](https://osu.ppy.sh/users/11226865) !
 
-Thanks [Taevas](https://osu.ppy.sh/users/7276846) for helping me findding [The only MP Link](https://osu.ppy.sh/community/matches/53282870) after [3 years](https://i.imgur.com/lXNCLMK.png)!
+Thanks [Taevas](https://osu.ppy.sh/users/7276846) for helping me finding [The only MP Link](https://osu.ppy.sh/community/matches/53282870) after [3 years](https://i.imgur.com/lXNCLMK.png)!
 
 Thanks[\_nhan](https://osu.ppy.sh/users/8765611) for backup the [vod](https://youtu.be/Zgr-3hH_1Ug)!
 
