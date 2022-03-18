@@ -5,7 +5,7 @@ The winner is [\_nhan](https://osu.ppy.sh/users/8765611)  !!!
 
 Thanks [Taevas](https://osu.ppy.sh/users/7276846) for helping me finding [The only MP Link](https://osu.ppy.sh/community/matches/53282870) after [3 years](https://i.imgur.com/lXNCLMK.png)!
 
-Thanks[\_nhan](https://osu.ppy.sh/users/8765611) for backup the [vod](https://youtu.be/Zgr-3hH_1Ug)!
+Thanks[\_nhan](https://osu.ppy.sh/users/8765611) for backing up the [vod](https://youtu.be/Zgr-3hH_1Ug)!
 
 ![banner2](https://user-images.githubusercontent.com/36922874/60381441-38718a80-9a7f-11e9-96df-9d766fac5beb.png)
 **Introduction:**
