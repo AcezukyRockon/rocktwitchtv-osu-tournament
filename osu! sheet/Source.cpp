@@ -165,7 +165,7 @@ int main() {
 				continue;
 			}
 		}
-		else Sleep(1);
+		else Sleep(1); // reduce CPU usage
 	}
 	//cin.get();
 	a->gotoxy(1, 20); //move cursor to (1,20) and let the program print "Press any key to continue" at that coordinate
