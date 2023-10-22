@@ -1,4 +1,4 @@
-﻿#include "Base.h" //include this to use Base.h functions
+#include "Base.h" //include this to use Base.h functions
 #include "Rule.h" //include this to use Rule.h functions
 #include "ListPlayers.h" //include this to use ListPlayers.h functions
 #include "Mappool.h" //include this to use Mappool.h functions
@@ -165,6 +165,7 @@ int main() {
 				continue;
 			}
 		}
+		else Sleep(1);
 	}
 	//cin.get();
 	a->gotoxy(1, 20); //move cursor to (1,20) and let the program print "Press any key to continue" at that coordinate
