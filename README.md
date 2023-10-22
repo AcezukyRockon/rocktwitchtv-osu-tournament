@@ -66,4 +66,10 @@ Thanks[\_nhan](https://osu.ppy.sh/users/8765611) for backing up the [vod](https:
 - Programmer: rock-on
 - Graphic Designer: rock-on
 
+**Compile Information**
+- Project properties:
+  - Visual Studio 2017
+  - Window SDK Version: 10.0.17763.0
+  - Platform Toolset: Visual Studio 2017 (v141)
+  
 ***Thank you for joining rocktwitchtv osu! tournament!***
