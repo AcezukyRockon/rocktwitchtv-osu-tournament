@@ -63,7 +63,7 @@ void Base::PrintMenu1()
 	cout << "   5. EXIT";
 	Base::DeleteLose(); // fully delete long words when switching UI
 	Base::gotoxy(1, 17);
-	cout << "Use 'S' or 'D' to go";
+	cout << "Use 'W' or 'S' to go";
 	Base::gotoxy(1, 18);
 	cout << "up and down";
 }
@@ -87,7 +87,7 @@ void Base::PrintMenu2()
 	cout << "   5. EXIT";
 	Base::DeleteLose();
 	Base::gotoxy(1, 17);
-	cout << "Use 'S' or 'D' to go";
+	cout << "Use 'W' or 'S' to go";
 	Base::gotoxy(1, 18);
 	cout << "up and down";
 }
@@ -111,7 +111,7 @@ void Base::PrintMenu3()
 	cout << "   5. EXIT";
 	Base::DeleteLose();
 	Base::gotoxy(1, 17);
-	cout << "Use 'S' or 'D' to go";
+	cout << "Use 'W' or 'S' to go";
 	Base::gotoxy(1, 18);
 	cout << "up and down";
 }
@@ -135,7 +135,7 @@ void Base::PrintMenu4()
 	SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), FOREGROUND_RED | FOREGROUND_BLUE | FOREGROUND_GREEN | FOREGROUND_INTENSITY);
 	cout << "   5. EXIT";
 	Base::gotoxy(1, 17);
-	cout << "Use 'S' or 'D' to go";
+	cout << "Use 'W' or 'S' to go";
 	Base::gotoxy(1, 18);
 	cout << "up and down";
 }
