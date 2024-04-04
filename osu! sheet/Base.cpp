@@ -66,6 +66,8 @@ void Base::PrintMenu1()
 	cout << "Use 'W' or 'S' to go";
 	Base::gotoxy(1, 18);
 	cout << "up and down";
+	Base::gotoxy(1, 20);
+	cout << "Press Enter to view";
 }
 
 void Base::PrintMenu2()
@@ -90,6 +92,8 @@ void Base::PrintMenu2()
 	cout << "Use 'W' or 'S' to go";
 	Base::gotoxy(1, 18);
 	cout << "up and down";
+	Base::gotoxy(1, 20);
+	cout << "Press Enter to view";
 }
 
 void Base::PrintMenu3()
@@ -114,6 +118,8 @@ void Base::PrintMenu3()
 	cout << "Use 'W' or 'S' to go";
 	Base::gotoxy(1, 18);
 	cout << "up and down";
+	Base::gotoxy(1, 20);
+	cout << "Press Enter to view";
 }
 
 void Base::PrintMenu4()
@@ -138,6 +144,8 @@ void Base::PrintMenu4()
 	cout << "Use 'W' or 'S' to go";
 	Base::gotoxy(1, 18);
 	cout << "up and down";
+	Base::gotoxy(1, 20);
+	cout << "Press Enter to view";
 }
 
 void Base::PrintMenu5()
