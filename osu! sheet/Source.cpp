@@ -20,7 +20,7 @@ int main() {
 	int dem = 1, // this is important for User Interfact 
 		dem2 = 1, // this is for CodingStuff menu only
 		ASCIIValue; // this is for key input
-	char key, keyfirst; // this is for key input
+	char key; // this is for key input
 	bool disable = false, disablefirst = true; // this is for key input
 
 	a->NoCursorType(); // Hide console cursor
